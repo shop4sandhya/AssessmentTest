@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38925" started-at="2016-08-08T22:21:54Z" finished-at="2016-08-08T22:22:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38925" started-at="2016-08-08T22:21:54Z" finished-at="2016-08-08T22:22:33Z">
+      <class name="create_Sub_Task_User_Stories.createSubTask_Testcases">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="beforeTest" is-config="true" duration-ms="13541" started-at="2016-08-08T15:21:54Z" finished-at="2016-08-08T15:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="verify_Records()[pri:1, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="verify_Records" duration-ms="928" started-at="2016-08-08T15:22:08Z" finished-at="2016-08-08T15:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Records -->
+        <test-method status="PASS" signature="verify_Manage_SubTasks_btn()[pri:2, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="verify_Manage_SubTasks_btn" duration-ms="503" started-at="2016-08-08T15:22:09Z" finished-at="2016-08-08T15:22:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Manage_SubTasks_btn -->
+        <test-method status="PASS" signature="verify_Manage_SubTasks_Include_Number()[pri:3, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="verify_Manage_SubTasks_Include_Number" duration-ms="3118" started-at="2016-08-08T15:22:09Z" finished-at="2016-08-08T15:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Manage_SubTasks_Include_Number -->
+        <test-method status="PASS" signature="click_subtask_Link()[pri:4, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="click_subtask_Link" duration-ms="307" started-at="2016-08-08T15:22:13Z" finished-at="2016-08-08T15:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click_subtask_Link -->
+        <test-method status="PASS" signature="getHeadingTxt()[pri:5, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="getHeadingTxt" duration-ms="2439" started-at="2016-08-08T15:22:13Z" finished-at="2016-08-08T15:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getHeadingTxt -->
+        <test-method status="PASS" signature="enterSubTaskDetails()[pri:6, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="enterSubTaskDetails" duration-ms="6930" started-at="2016-08-08T15:22:15Z" finished-at="2016-08-08T15:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterSubTaskDetails -->
+        <test-method status="PASS" signature="SubTaskAddBtn()[pri:7, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="SubTaskAddBtn" duration-ms="3118" started-at="2016-08-08T15:22:22Z" finished-at="2016-08-08T15:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubTaskAddBtn -->
+        <test-method status="PASS" signature="emptySubTaskAddBtn()[pri:8, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="emptySubTaskAddBtn" duration-ms="2417" started-at="2016-08-08T15:22:25Z" finished-at="2016-08-08T15:22:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emptySubTaskAddBtn -->
+        <test-method status="PASS" signature="numberofSubTaskRecords()[pri:9, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="numberofSubTaskRecords" duration-ms="1177" started-at="2016-08-08T15:22:28Z" finished-at="2016-08-08T15:22:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- numberofSubTaskRecords -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:create_Sub_Task_User_Stories.createSubTask_Testcases@591f989e]" name="afterTest" is-config="true" duration-ms="4402" started-at="2016-08-08T15:22:29Z" finished-at="2016-08-08T15:22:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- create_Sub_Task_User_Stories.createSubTask_Testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
